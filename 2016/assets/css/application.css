@@ -1,0 +1,71 @@
+#workshop-info {
+  font-size: 14px;
+  margin-left: 0;
+}
+
+#workshop-info ul li { 
+  margin-bottom: -12px;
+  margin-top: -12px;
+}
+
+#schedule .article-data {
+    margin-left: 60px;
+    margin-bottom: 35px;
+}
+
+#schedule .article-data  p {
+    margin: 0;
+    font-size: 15px;
+    margin: -12px;
+}
+
+#schedule .article-data  p:first-child {
+    font-weight: bold;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#schedule .article-data article.article-info {
+  display :none;
+  margin-left: -2px;
+}
+
+#schedule .article-data article.article-info header {
+    font-weight: bold;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-size: 14px;
+    margin: 15px 15px 15px 0px;
+}
+
+#schedule .article-data article.article-info p {
+   line-height: normal;
+   margin-bottom: 20px;
+   margin-left: 0px;
+}
+
+#schedule .article-data article.article-info ul {
+  font-size: 14px;
+  list-style: none;
+}
+
+#schedule .article-data article.article-info ul li {
+   margin-bottom: -12px;
+}
+
+@media screen and (min-width: 961px) and (max-width: 1320px) {
+
+  #header #nav ul li a span {
+    font-size: 0.7em;
+  }
+
+}
+
+.absent {
+  color: rgba(0, 0, 0, 0.37);
+}
+
+/* #header { */
+/*     width: 325px; */
+/* } */
